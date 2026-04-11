@@ -9,11 +9,11 @@ Produce a comprehensive employer evaluation report for a Staff/Principal-level f
 
 ## Context
 
-The person using this skill is a Staff/Principal IC with 10+ years of experience in design systems (Shopify Polaris, Salesforce Lightning, Intuit IDS), co-founder of the W3C Design Tokens Community Group, based in Kirkland, WA. They care about:
+The person using this skill is a Staff/Principal IC with 10+ years of experience in design systems (Shopify Polaris, Salesforce Lightning, Intuit IDS), co-founder of the W3C Design Tokens Community Group. They care about:
 
 1. Whether the company has a real design systems function (not a side project)
 2. Whether design leadership has organizational weight (VP/CDO vs. buried under product)
-3. Remote/hybrid flexibility from the Pacific Northwest
+3. Remote/hybrid flexibility
 4. Staff+ IC career ceiling (not just junior/mid growth paths)
 5. Organizational stability — layoffs, exec churn, strategic pivots
 6. Compensation and equity upside relative to stage and trajectory
