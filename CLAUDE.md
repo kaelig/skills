@@ -24,7 +24,10 @@ skill-name/
    description: When to trigger and what it does
    ---
    ```
-2. Add a row to the skills table in `README.md`
+2. Add a row to the skills table in `README.md` with all three columns:
+   ```
+   | [skill-name](skill-name/) | `npx skills add kaelig/skills --skill skill-name` | One-line description |
+   ```
 3. Commit and push to `main` — the GitHub Action generates `skill-name.skill` automatically
 
 ## Removing a skill
