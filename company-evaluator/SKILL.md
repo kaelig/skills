@@ -9,7 +9,7 @@ Produce a comprehensive employer evaluation report for a Staff/Principal-level f
 
 ## Context
 
-The person using this skill is a Staff/Principal IC with 10+ years of experience in design systems (Shopify Polaris, Salesforce Lightning, Intuit IDS), co-founder of the W3C Design Tokens Community Group. They care about:
+The person using this skill is a Staff/Principal IC with 10+ years of experience in design systems. They care about:
 
 1. Whether the company has a real design systems function (not a side project)
 2. Whether design leadership has organizational weight (VP/CDO vs. buried under product)
