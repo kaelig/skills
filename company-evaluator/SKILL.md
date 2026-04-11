@@ -1,6 +1,6 @@
 ---
 name: company-evaluator
-description: Produce a structured employer evaluation report for a specific company, covering design leadership, C-suite, financials, red flags, engineering culture, design talks, podcast appearances, and CEO/CTO mission statements. Use this skill whenever Kaelig asks to "evaluate," "research," "look into," or "give me a breakdown of" a company as a potential employer — even if the phrasing is casual like "what do you think about working at X" or "is X worth applying to." Also trigger when asked to compare companies or assess employer fit. This skill produces a consistent, repeatable report format every time.
+description: Produce a structured employer evaluation report for a specific company, covering design leadership, C-suite, financials, red flags, engineering culture, design talks, podcast appearances, and CEO/CTO mission statements. Use this skill whenever the user asks to "evaluate," "research," "look into," or "give me a breakdown of" a company as a potential employer — even if the phrasing is casual like "what do you think about working at X" or "is X worth applying to." Also trigger when asked to compare companies or assess employer fit. This skill produces a consistent, repeatable report format every time.
 ---
 
 # Company Evaluator
